@@ -1,5 +1,5 @@
-# HomeWorks
-Student's homework repository
+# HomeWorks 
+Code Profiling Result
 
 
 Input: 1
@@ -25,7 +25,7 @@ np.sqrt:
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 
 
-========================================
+======================================================================================================
 Input: 1001
 mysqrt:
          47 function calls in 0.000 seconds
@@ -49,7 +49,7 @@ np.sqrt:
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 
 
-========================================
+===========================================================================================================
 Input: 2001
 mysqrt:
          47 function calls in 0.000 seconds
