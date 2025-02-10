@@ -234,6 +234,8 @@ mysqrt:
 np.sqrt:
          2 function calls in 0.000 seconds
 
+         
+
    Ordered by: internal time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
